@@ -16,20 +16,20 @@ public class DateTest {
 //        System.out.println(new Date().getTime());
 
         // format
-/*        DateFormat df = new SimpleDateFormat("yyyy年MM月dd日");
+        DateFormat df = new SimpleDateFormat("yyyy年MM月dd日");
         DateFormat df2 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
         Date date = new Date();
-        System.out.println(date);
+        System.out.println(date.getTime());
         String s = df.format(date);
         System.out.println(s);
         String s1 = df2.format(date);
-        System.out.println(s1);*/
+        System.out.println(s1);
 
         // parse
-        String str = "2001年10月1日";
-        DateFormat df = new SimpleDateFormat("yyyy年MM月dd日");
-        Date date = df.parse(str);
-        System.out.println(date);
+//        String str = "2001年10月1日";
+//        DateFormat df = new SimpleDateFormat("yyyy年MM月dd日");
+//        Date date = df.parse(str);
+//        System.out.println(date);
     }
 }
