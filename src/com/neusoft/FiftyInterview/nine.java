@@ -21,7 +21,7 @@ public class nine {
                 if (i%j ==0){
                     sum = sum + j;
                     if (sum == i){
-                        System.out.print(i+"、 ");
+                        System.out.print(i+" ");
                     }
                 }
             }
