@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author shihaobo
  * @date 2020/8/9 17:17
  */
-public class one {
+public class test1 {
     public static void main(String[] args) {
         System.out.println("请输入月数");
         int sc = new Scanner(System.in).nextInt();

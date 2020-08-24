@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author shihaobo
  * @date 2020/8/11 19:25
  */
-public class four {
+public class test4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个数：");

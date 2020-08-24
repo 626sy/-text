@@ -4,7 +4,7 @@ package com.neusoft.FiftyInterview;
  * @author shihaobo
  * @date 2020/8/11 18:51
  */
-public class two {
+public class test2 {
     public static void main(String[] args) {
         int count = 0;
         for (int i = 100; i < 200; i++) {

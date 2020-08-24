@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @date 2020/8/11 19:55
  * 题目：一个数如果恰好等于它的因子之和，这个数就称为"完数"。例如6=1＋2＋3.编程找出1000以内的所有完数。
  */
-public class nine {
+public class test9 {
     public static void main(String[] args) {
             int n = 1000;
             isWanNumber(n);
